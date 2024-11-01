@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6424335b59f9f6fdd657d2e1",
+    "id": 1,
+    "name": "Moroccan Mint Classic",
+    "description": "A refreshing and aromatic blend of green tea and fresh mint leaves, with hints of sweetness and a cooling effect. This tea is a staple in Moroccan culture, enjoyed daily across the country.",
+    "price": 8.99,
+    "region": "Morocco",
+    "weight": 250,
+    "flavor_profile": ["Mint", "Herbaceous", "Sweet"],
+    "brewing_method": ["Traditional Pot", "Glass", "Mint Tumbler"],
+    "steep_level": "Medium",
+    "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706903483/uploads/yb5gsogwm9jjfjbhjqkl.png"
+  },
+  {
+    "_id": "6424338559f9f6fdd657d2e2",
+    "id": 2,
+    "name": "TanTan",
+    "description": "A zesty blend with hints of lemon and orange zest, combined with green tea and a touch of mint. Ideal for a refreshing afternoon tea, commonly served with honey for added sweetness.",
+    "price": 10.99,
+    "region": "Morocco",
+    "weight": 250,
+    "flavor_profile": ["Lemon", "Orange", "Mint"],
+    "brewing_method": ["Traditional Pot", "Mint Tumbler"],
+    "steep_level": "Light",
+    "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706903594/uploads/r8p0kubvbcsyamm1ntju.png"
+  },
+  {
+    "_id": "6424338959f9f6fdd657d2e3",
+    "id": 3,
+    "name": "Saharan Sunset",
+    "description": "An earthy and calming blend with notes of chamomile, lemongrass, and a hint of green tea. Inspired by the quiet evenings in the Moroccan Sahara.",
+    "price": 11.99,
+    "region": "Morocco",
+    "weight": 200,
+    "flavor_profile": ["Chamomile", "Lemongrass", "Herbal"],
+    "brewing_method": ["Glass", "Ceramic Pot"],
+    "steep_level": "Mild",
+    "image_url": "https://iili.io/H8Y7kTN.webp"
+  },
+  {
+    "_id": "6424338c59f9f6fdd657d2e4",
+    "id": 4,
+    "name": "Spiced Charm",
+    "description": "A warm and rich tea blend with cloves, cinnamon, and cardamom. Often served during winter months, this tea brings comfort and warmth.",
+    "price": 9.99,
+    "region": "Morocco",
+    "weight": 250,
+    "flavor_profile": ["Cinnamon", "Clove", "Cardamom"],
+    "brewing_method": ["Traditional Pot", "Ceramic Pot"],
+    "steep_level": "Strong",
+    "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706697327/uploads/swag9raxpyawprrenlo2.png"
+  },
+  {
+    "_id": "6424352d59f9f6fdd657d2e6",
+    "id": 5,
+    "name": "Atlas Blossom",
+    "description": "A delicate floral blend with rose petals, orange blossom, and green tea, capturing the essence of Morocco’s Atlas mountains. Often enjoyed as a fragrant evening tea.",
+    "price": 12.99,
+    "region": "Morocco",
+    "weight": 200,
+    "flavor_profile": ["Rose", "Orange Blossom", "Floral"],
+    "brewing_method": ["Glass", "Mint Tumbler"],
+    "steep_level": "Light",
+    "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706710582/uploads/ucynzcx2zyn1k9nnhhlz.png"
+  }
+]
