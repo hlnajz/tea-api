@@ -1,7 +1,7 @@
 [
   {
     "_id": "6424335b59f9f6fdd657d2e1",
-    "id": 1,
+    "id": 2,
     "name": "Moroccan Mint Classic",
     "description": "A refreshing and aromatic blend of green tea and fresh mint leaves, with hints of sweetness and a cooling effect. This tea is a staple in Moroccan culture, enjoyed daily across the country.",
     "price": 8.99,
@@ -14,7 +14,7 @@
   },
   {
     "_id": "6424338559f9f6fdd657d2e2",
-    "id": 2,
+    "id": 1,
     "name": "TanTan",
     "description": "A zesty blend with hints of lemon and orange zest, combined with green tea and a touch of mint. Ideal for a refreshing afternoon tea, commonly served with honey for added sweetness.",
     "price": 10.99,
