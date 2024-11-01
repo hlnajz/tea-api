@@ -1,5 +1,5 @@
 [
- 
+ {
     "_id": "6424338559f9f6fdd657d2e2",
     "id": 1,
     "name": "TanTan",
@@ -25,7 +25,7 @@
     "steep_level": "Medium",
     "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706903483/uploads/yb5gsogwm9jjfjbhjqkl.png"
   },
-  {
+  
   {
     "_id": "6424338959f9f6fdd657d2e3",
     "id": 3,
