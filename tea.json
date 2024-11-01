@@ -1,5 +1,18 @@
 [
-  {
+ 
+    "_id": "6424338559f9f6fdd657d2e2",
+    "id": 1,
+    "name": "TanTan",
+    "description": "A zesty blend with hints of lemon and orange zest, combined with green tea and a touch of mint. Ideal for a refreshing afternoon tea, commonly served with honey for added sweetness.",
+    "price": 10.99,
+    "region": "Morocco",
+    "weight": 250,
+    "flavor_profile": ["Lemon", "Orange", "Mint"],
+    "brewing_method": ["Traditional Pot", "Mint Tumbler"],
+    "steep_level": "Light",
+    "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706903594/uploads/r8p0kubvbcsyamm1ntju.png"
+  },
+   {
     "_id": "6424335b59f9f6fdd657d2e1",
     "id": 2,
     "name": "Moroccan Mint Classic",
@@ -13,18 +26,6 @@
     "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706903483/uploads/yb5gsogwm9jjfjbhjqkl.png"
   },
   {
-    "_id": "6424338559f9f6fdd657d2e2",
-    "id": 1,
-    "name": "TanTan",
-    "description": "A zesty blend with hints of lemon and orange zest, combined with green tea and a touch of mint. Ideal for a refreshing afternoon tea, commonly served with honey for added sweetness.",
-    "price": 10.99,
-    "region": "Morocco",
-    "weight": 250,
-    "flavor_profile": ["Lemon", "Orange", "Mint"],
-    "brewing_method": ["Traditional Pot", "Mint Tumbler"],
-    "steep_level": "Light",
-    "image_url": "https://res.cloudinary.com/dlhbc051y/image/upload/v1706903594/uploads/r8p0kubvbcsyamm1ntju.png"
-  },
   {
     "_id": "6424338959f9f6fdd657d2e3",
     "id": 3,
